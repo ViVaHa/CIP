@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="varshath.cip">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/biblioteca"
+        android:label="CIP2"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="Signup"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".totalmain"
+            android:label="@string/title_activity_profile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".test"
+            android:label="@string/title_activity_test"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".email"
+            android:label="@string/title_activity_email"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LoginActivity"
+            android:label="Bib Final"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ProfileActivity"
+            android:label="@string/title_activity_profile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Barcode" />
+        <activity
+            android:name=".RenewResult"
+            android:label="RenewResult"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".requestbook" />
+        <activity
+            android:name=".sendsms"
+            android:label="Sendsms"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ReserveBook" />
+        <activity android:name=".Share" />
+        <activity android:name=".Borrow"></activity>
+    </application>
+
+</manifest>

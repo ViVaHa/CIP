@@ -1,0 +1,173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:8:5-57:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\AndroidManifest.xml:5:5-19
+	android:label
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:11:9-29
+	android:supportsRtl
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:10:9-42
+	android:theme
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:13:9-40
+activity#varshath.cip.MainActivity
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:14:9-17:59
+	android:label
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:16:13-35
+	android:theme
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:15:13-41
+activity#varshath.cip.totalmain
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:18:9-21:59
+	android:label
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:20:13-59
+	android:theme
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:19:13-38
+activity#varshath.cip.test
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:22:9-25:59
+	android:label
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:24:13-56
+	android:theme
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:23:13-33
+activity#varshath.cip.email
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:26:9-29:59
+	android:label
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:28:13-57
+	android:theme
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:27:13-34
+activity#varshath.cip.LoginActivity
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:30:9-39:20
+	android:label
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:32:13-38
+	android:theme
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:31:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:37:27-74
+activity#varshath.cip.ProfileActivity
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:40:9-43:59
+	android:label
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:42:13-59
+	android:theme
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:41:13-44
+activity#varshath.cip.Barcode
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:44:9-45
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:44:19-42
+activity#varshath.cip.RenewResult
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:45:9-48:59
+	android:label
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:47:13-40
+	android:theme
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:46:13-40
+activity#varshath.cip.requestbook
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:49:9-49
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:49:19-46
+activity#varshath.cip.sendsms
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:50:9-53:59
+	android:label
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:52:13-36
+	android:theme
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:51:13-36
+activity#varshath.cip.ReserveBook
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:54:9-49
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:54:19-46
+activity#varshath.cip.Share
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:55:9-43
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:55:19-40
+activity#varshath.cip.Borrow
+ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:56:9-53
+	android:name
+		ADDED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml:56:19-41
+uses-sdk
+INJECTED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Varshath\Desktop\CIP\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\AndroidManifest.xml:3:5-72
+	android:targetSdkVersion
+		INJECTED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Varshath\Desktop\CIP\app\src\main\AndroidManifest.xml

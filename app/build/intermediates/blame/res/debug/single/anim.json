@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\src\\main\\res\\anim\\move.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\src\\main\\res\\anim\\move.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\together.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\src\\main\\res\\anim\\together.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bounce.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bounce.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\together.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\src\\main\\res\\anim\\together.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\together.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\src\\main\\res\\anim\\together.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sequential_animation.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\src\\main\\res\\anim\\sequential_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sequential_animation.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\src\\main\\res\\anim\\sequential_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\src\\main\\res\\anim\\move.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bounce.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "C:\\Users\\hp i7\\Desktop\\CIP\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sequential_animation.xml",
+        "source": "C:\\Users\\Varshath\\Desktop\\CIP\\app\\src\\main\\res\\anim\\sequential_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\guest1\\Desktop\\CIP\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\guest1\\Desktop\\CIP\\app\\src\\main\\res\\anim\\slide_up.xml"
+    }
+]

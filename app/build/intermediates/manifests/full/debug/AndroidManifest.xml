@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="varshath.cip"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/biblioteca"
+        android:label="CIP2"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="varshath.cip.MainActivity"
+            android:label="Signup"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="varshath.cip.totalmain"
+            android:label="@string/title_activity_profile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="varshath.cip.test"
+            android:label="@string/title_activity_test"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="varshath.cip.email"
+            android:label="@string/title_activity_email"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="varshath.cip.LoginActivity"
+            android:label="Bib Final"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="varshath.cip.ProfileActivity"
+            android:label="@string/title_activity_profile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="varshath.cip.Barcode" />
+        <activity
+            android:name="varshath.cip.RenewResult"
+            android:label="RenewResult"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="varshath.cip.requestbook" />
+        <activity
+            android:name="varshath.cip.sendsms"
+            android:label="Sendsms"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="varshath.cip.ReserveBook" />
+        <activity android:name="varshath.cip.Share" />
+        <activity android:name="varshath.cip.Borrow" />
+    </application>
+
+</manifest>
